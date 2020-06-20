@@ -1,0 +1,61 @@
+header{
+padding-top: 30px;
+min-height: 10px;
+font-size: 25px;
+text-align: center;
+font-family: souz one;
+background: brown;
+}
+.container{
+width: 80%;
+margin: auto;
+overflow: hidden;
+}
+header #branding h1{
+float: left;
+}
+
+}
+#showcase h1{
+margin-top: 120px;
+font-size: 55px;
+margin-bottom: 10px;
+text-shadow: 2px 2px 5 px;
+}
+
+#showcase p{
+font-size: 20px;
+}
+
+#newsletter{
+text-align: right;
+padding: 15px;
+{
+
+#newsletter h2{
+color: brown;
+}
+
+#container{
+float: left;
+text-align: center;
+width: 30%;
+padding: 10px;
+}
+
+#container images{
+width: 90px;
+}
+
+footer{
+padding: 20px;
+margin-top: 20px;
+color: brown
+background color: #a67037;
+}
+
+
+
+
+
+

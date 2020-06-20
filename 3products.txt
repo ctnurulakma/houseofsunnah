@@ -1,0 +1,225 @@
+<html>
+<head>
+<meta charset="utf-8"/>
+<title> Products </title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<style>
+body {
+  background-image: url('image/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+font-family: "Lucida Console", Courier, monospace;
+}
+h3{
+font size:"15";
+font-family:"arial";
+}
+</style>
+</head>
+<body>
+<header>
+<div class="container"
+<div id="branding">
+<h1>House of Sunnah </h1>
+</div>
+</header>
+<br>
+<br>
+<div id="showcase">
+<br>
+<h1> PRODUCTS </h1>
+<font="15" font family="arial" </font>
+<p>
+“Indeed in Prophet Muhammad (ﷺ), you have an excellent example to follow for him who hopes for (the Meeting with) Allāh and the Last Day, and remembers Allah much.”
+[Qur’an 33:21]
+<br>
+"The Sunnah of our beloved Prophet (S.A.W) is the best “Health advice” you will ever need to eat healthy, feel great about yourself, prevent diseases and stay physically and mentally fit. The sunnah foods ( foods Prophet Muhammad S.A.W liked and ate) should be a part of our everyday lives.
+</p>
+</div>
+<div class="row">
+<div class="col-md-4 col-sm-4">
+<div class="produk">
+<li>
+<img src="image/alessa.jpg" width= "500" height="400" border="3"> 
+<h3>Al Essa</h3>
+<p> 
+Price: 1kg / RM30
+<br>
+Stock: 30
+<br>
+Rich in vitamins such as B1, B2, B3 and B5, as well as A1 and C</p>
+</li>
+</div>
+<li>
+<p class="text-center"><img src="image/mariami.jpg" width= "500" height="400" border="3"></p>
+<h3>Mariami</h3>
+<p>
+Price: 1kg / RM60-RM80
+<br>
+Stock: 30
+<br>
+Rich in nutrients: Protein (1.8 to two percent), fiber (two to four percent), glucose (50 to 57 percent), Vitamins A and C, sodium and potassium.
+</li>
+<li>
+<p class="text-center"><img src="image/medjool.jpg" width= "500" height="400" border="3"></p>
+<h3>Medjool</h3>
+<p>
+Price: 1kg / RM80-RM100
+<br>
+Stock: 30
+<br>
+Medjool dates are a healthier alternative to high-calorie desserts because it is rich in essential minerals with only about 66 calories in each.
+</p>
+</li>
+<li>
+<p class="text-center"><img src="image/rahma.jpg" width= "500" height="400" border="3"></p>
+<h3>Rahma</h3>
+<p>
+Price: 1kg / RM30
+<br>
+Stock: 30
+<br>
+Rich in selenium, manganese, copper, and magnesium, and all of these are required when it comes to keeping our bones healthy.
+</p>
+</li>
+<li>
+<p class="text-center"><img src="image/rahma.jpg" width= "500" height="400" border="3"></p>
+<h3>Rahma</h3>
+<p>
+Price: 1kg / RM30
+<br>
+Stock: 30
+<br>
+Rich in selenium, manganese, copper, and magnesium, and all of these are required when it comes to keeping our bones healthy
+</p>
+</li>
+<li>
+<p class="text-center"><img src="image/rara.jpg" width= "500" height="400" border="3"></p>
+<h3>Rara</h3>
+<p>
+Price: 1kg / RM30
+<br>
+Stock: 30
+<br>
+Lowers cholesterol and protein rich
+</p>
+</li>
+<li>
+<p class="text-center"><img src="image/honeydates.jpg" width= "500" height="400" border="3"></p>
+<h3>Honey Dates</h3>
+<p>
+Price : Rm 15.00 per box
+<br>
+Stock: 30
+<br>
+It high in fiber, may promote brain health and reduce risk of several disease
+</p>
+</li>
+<li>
+<p class="text-center"><img src="image/raisin.jpg" width= "500" height="400" border="3"></p>
+<h3>Raisin</h3>
+<p>
+Price: Rm 4.00 per pack
+<br>
+Stock: 50 
+<br>
+Its good for oral health , reducing the risk of Cardiovascular Disease and good for mind
+</p>
+</li>
+<li>
+<p class="text-center"><img src="image/honey.jpg" width= "500" height="400" border="3"></p>
+<h3>Honey</h3>
+<p>
+Price : Rm 15.00 per box
+<br>
+It high in fiber, may promote brain health and reduce risk of several disease
+</p>
+</li>
+<li>
+<p class="text-center"><img src="image/barley.jpg" width= "500" height="400" border="3"></p>
+<h3>Barley</h3>
+<p>
+Price: Rm 10 per pack 
+<br>
+Stock: 80
+<br>
+It provides fiber, vitamins, mineral and help to reduce heart health and blood pressure.
+</p>
+</li>
+<li>
+<p class="text-center"><img src="image/pomegranate.jpg" width= "500" height="400" border="3"></p>
+<h3>Pomegranate</h3>
+<p>
+Price: 1 box / RM55
+<br>
+Stock: 35
+<br>
+Pomegranate is rich in anti-oxidants and thus protects our body from free radicals, which are responsible for premature ageing. Free radicals are formed by exposure to sun and due to harmful toxins in the environment
+</p>
+</li>
+<li>
+<p class="text-center"><img src="image/anggur.jpg" width= "500" height="400" border="3"></p>
+<h3>Mawaddah Grape</h3>
+<p>
+Price: RM6.00 per kilogram
+<br>
+Stock: 50 
+<br>
+Mawaddah grapes is seedless grapes obtain from the best vineyard. Only the grapes that ripe are picked by experienced picker. The grapes are sweet and tasty suitable to eat as desserts
+</p>
+</li>
+<li>
+<p class="text-center"><img src="image/salt.jpg" width= "500" height="400" border="3"></p>
+<h3>Sea Salt</h3>
+<p>
+Price: Rm 13 per pack
+<br>
+Stock: 80
+<br>
+It consists of 40% sodium and 60% chloride, by weight and helps Thyroid function properly
+</p>
+</li>
+<li>
+<p class="text-center"><img src="image/susu.jpg" width= "500" height="400" border="3"></p>
+<h3>Pure Goat's Milk</h3>
+<p>
+Price: RM10.00 each/600ml
+<br>
+Stock: 80
+<br>
+Pure Goat’s Milk from House of Sunnah is natural and fresh from farm to your glass. With the best breed of goats; healthy and given only organic grass as their food, it is surely the most delicious milk you’ve ever tasted
+</p>
+</li>
+<img src="image/cuka.jpg" width= "500" height="400" border="3">
+<h3>Al Kausar Apple Vinegar</h3>
+</p>
+Price: RM10.00 per bottle/350ml
+<br>
+Stock : 60
+<br>
+Al- Kausar Apple Vinegar is suitable as remedies or supplements. It is known to have many benefits. This product can be eaten right away or used in cooking; such as slad dressing and more.
+</p>
+</li>
+</ul>
+<footer>
+<p>
+House of Sunnah, Copyright @2018 
+</p>
+</footer>
+</html>
+
+
+
+
